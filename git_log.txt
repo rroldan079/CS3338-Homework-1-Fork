@@ -1,3 +1,9 @@
+commit 5a3040940879075d37fb8cfdd41f1352bad529a3
+Author: atorre112 <atorre112@calstatela.edu>
+Date:   Thu Feb 13 23:26:11 2025 -0800
+
+    Add git_log.txt and repo-location.txt
+
 commit cd5ca4e72df500c8d43bfbf94b0c2013ccde7aef
 Author: atorre112 <atorre112@calstatela.edu>
 Date:   Thu Feb 13 23:03:49 2025 -0800
